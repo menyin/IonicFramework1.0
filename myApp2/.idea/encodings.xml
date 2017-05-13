@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/controllers/guide.controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/controllers/test.controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/services/test.service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/tab-test2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/tabs.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/views/guide.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/views/test.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/views/test2.html" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

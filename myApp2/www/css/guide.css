@@ -1,0 +1,12 @@
+#guide .bt_go_home {
+  bottom: 5%;
+  color: #fff;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  position: absolute;
+  text-decoration: none;
+  left: calc(50% - 50px);
+  border: 1px solid #ffffff;
+}
